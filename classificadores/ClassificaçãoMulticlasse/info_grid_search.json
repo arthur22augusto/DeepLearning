@@ -1,0 +1,10 @@
+{
+    "melhores_parametros": {
+        "batch_size": 25,
+        "epochs": 250,
+        "model__kernel_initializer": "normal",
+        "model__neurons": 4,
+        "model__optimizer": "adam"
+    },
+    "melhor_score": 0.9333333333333333
+}
